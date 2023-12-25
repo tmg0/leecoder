@@ -1,0 +1,28 @@
+{
+  "name": "leecoder",
+  "version": "0.0.1",
+  "description": "A javascript/typescript leetcode practise code runne.",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zekunjin/leecoder.git"
+  },
+  "keywords": [
+    "code",
+    "leetcode"
+  ],
+  "author": "zekun.jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zekunjin/leecoder/issues"
+  },
+  "homepage": "https://github.com/zekunjin/leecoder#readme",
+  "devDependencies": {
+    "@nuxtjs/eslint-config-typescript": "^12.1.0",
+    "eslint": "^8.56.0",
+    "typescript": "^5.3.3",
+    "vitest": "^1.1.0"
+  }
+}
